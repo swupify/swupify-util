@@ -1,6 +1,6 @@
 {
-  "name": "@swupify/util",
-  "version": "0.0.1",
+  "name": "swupify-util",
+  "version": "0.0.2",
   "description": "Swupify Util Package",
   "main": "exports.js",
   "scripts": {
