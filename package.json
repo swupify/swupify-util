@@ -1,0 +1,23 @@
+{
+  "name": "@swupify/util",
+  "version": "0.0.1",
+  "description": "Swupify Util Package",
+  "main": "exports.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swupify/swupify-util.git"
+  },
+  "keywords": [
+    "swupify",
+    "util"
+  ],
+  "author": "Swupify",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swupify/swupify-util/issues"
+  },
+  "homepage": "https://github.com/swupify/swupify-util#readme"
+}
